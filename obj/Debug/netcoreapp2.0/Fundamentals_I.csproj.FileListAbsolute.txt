@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.pdb
